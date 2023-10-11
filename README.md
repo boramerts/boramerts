@@ -1,5 +1,5 @@
 # About Me:
- I’m currently working on Identification of Neuro-Cognitive Markers of Sarcopenia Disease by Using Functional Near Infrared Spectroscopy and Artificial Intelligence Approach<br><br>I’m currently learning Web Development, UI/UX Design, Database Management<br><br>I'm interested in Machine Learning, Brain Machine Interfaces and Software Development
+ I’m currently working on Identification of Neuro-Cognitive Markers of Sarcopenia Disease by Using Functional Near Infrared Spectroscopy and Artificial Intelligence Approach<br><br>I'm interested in Machine Learning, Brain Machine Interfaces and Software Development
 
 
 ## 🌐 Socials:
